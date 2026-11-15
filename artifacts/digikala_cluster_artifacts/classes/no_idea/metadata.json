@@ -1,0 +1,14 @@
+{
+  "class_name": "no_idea",
+  "rows": 443875,
+  "n_clusters": 200,
+  "embedding_hidden_size": 768,
+  "model_name": "HooshvareLab/bert-base-parsbert-uncased",
+  "max_length": 256,
+  "pooling": "attention-mask mean pooling",
+  "normalization": "L2",
+  "seed": 42,
+  "cluster_ids_file": "cluster_ids.npy",
+  "kmeans_file": "kmeans.joblib",
+  "source_fingerprint": "762a4d7b85233f5c945e1565cbf63068cde5edd11aa397149eb97fe05c7d9495"
+}

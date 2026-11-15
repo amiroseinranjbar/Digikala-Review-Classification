@@ -1,0 +1,14 @@
+{
+  "class_name": "not_recommended",
+  "rows": 424256,
+  "n_clusters": 200,
+  "embedding_hidden_size": 768,
+  "model_name": "HooshvareLab/bert-base-parsbert-uncased",
+  "max_length": 256,
+  "pooling": "attention-mask mean pooling",
+  "normalization": "L2",
+  "seed": 42,
+  "cluster_ids_file": "cluster_ids.npy",
+  "kmeans_file": "kmeans.joblib",
+  "source_fingerprint": "e99f177929b16245988f60476bb40f4e9d03e703106311decc8b16417a8297b4"
+}
