@@ -1,0 +1,13 @@
+﻿Metric,Value
+Mean characters,48.39334361983331
+Median characters,29.0
+90th percentile characters,106.0
+95th percentile characters,152.0
+99th percentile characters,297.0
+Maximum characters,4000.0
+Mean words,10.08607149534403
+Median words,6.0
+90th percentile words,22.0
+95th percentile words,32.0
+99th percentile words,62.0
+Maximum words,908.0

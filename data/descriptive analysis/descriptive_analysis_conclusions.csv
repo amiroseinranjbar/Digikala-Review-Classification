@@ -1,0 +1,13 @@
+﻿Finding
+"The dataset contains 6,156,289 records and 15 columns."
+"The dataset contains 331,599 unique products."
+"The dataset contains 29,213 unique sellers."
+"The column with the highest missing-value percentage is true_to_size_rate, with 98.53% missing values."
+"The most frequent recommendation class is recommended, representing 67.62% of all records."
+The median comment length is 29 characters.
+The 95th percentile of comment length is 152 characters.
+The 99th percentile of comment length is 297 characters.
+10.93% of comments contain fewer than 10 characters.
+4.99% of comments are longer than the 95th percentile threshold.
+The top 20 products account for 0.08% of all reviews.
+The top 1% of products account for 10.85% of all reviews.
